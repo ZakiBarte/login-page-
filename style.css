@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(244, 244, 248);;
+}
+header{
+    color: rgb(76, 76, 194);
+    text-align: center;
+}
+form{
+    border:20px solid rgb(13, 195, 219);
+    width:300px;
+    margin:auto;
+    padding:40px;
+    color:rgb(0, 0, 0);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+#first{
+    text-align:center;
+    color:rgb(9, 114, 235);
+    padding:1px;
+    position: relative;
+}
+/* General Layout */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7f9fc;
+  color: #333;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container for the terms */
+main {
+  max-width: 900px;
+  margin: 60px auto;
+  background-color: #fff;
+  padding: 40px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+}
+
+/* Headings */
+h1 {
+  font-size: 2.5rem;
+  color: #1e3a8a;
+  margin-bottom: 30px;
+}
+#f2{
+  font-size: 1.5rem;
+  color: #0f40e0;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border-left: 0ch;
+}
+#f3{
+  font-size: 1.5rem;
+  color: #0f40e0;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border-left: 0ch;
+}
+#f4{
+  font-size: 1.5rem;
+  color: #0f40e0;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border-left: 0ch;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #1e40af;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border-left: 4px solid #3b82f6;
+  padding-left: 10px;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 15px;
+  font-size: 1rem;
+}
+
+/* List Styling */
+ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+/* Links */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Last updated note */
+em {
+  color: #666;
+  font-size: 0.9rem;
+}
+#welcome{
+    text-align: center;
+    color: rgb(9, 114, 235);
+    padding: 1px;
+    position: relative;
+}
